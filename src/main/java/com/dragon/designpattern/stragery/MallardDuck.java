@@ -1,4 +1,4 @@
-package com.dragon.designpattern.chap01;
+package com.dragon.designpattern.stragery;
 
 /**
  * 绿头鸭
